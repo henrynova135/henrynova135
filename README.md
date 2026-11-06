@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi! I'm Henry Nova, a Computer Science student who enjoys exploring technology and building things through code.
+
+I mainly work on software development, AI-powered applications, robotics, and occasionally game development. I enjoy experimenting with different technologies and learning how things work behind the scenes.
+
+My usual tools include CC#, C++, Python ,Html, CSS, JavaScript, Unity, Flask, and Arduino.
+
+I'm always open to connecting with fellow developers, sharing ideas, and collaborating on interesting projects.
+
+Find me here: www.linkedin.com/in/soethuyeinoo
 
 <!--
 **henrynova135/henrynova135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
